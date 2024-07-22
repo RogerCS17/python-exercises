@@ -1,4 +1,5 @@
-# Sumar dos números y mostrar su resultado
+"""Sumar dos números y mostrar su resultado"""
+
 # Se declara las variables
 number01 = 4
 number02 = 10
